@@ -6,11 +6,15 @@
 }
 
 .big-text {
-  font-size: 4rem;
-  font-weight: bold;
-  color: #333;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  font-size: 6rem;
+  font-weight: 800;
+  color: #1a1a1a;
+  text-shadow: 
+    2px 2px 0px #ffffff,
+    4px 4px 0px rgba(0, 0, 0, 0.2);
   margin: 2rem 0;
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }
 
 .logo {

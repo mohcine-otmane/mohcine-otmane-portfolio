@@ -4,9 +4,8 @@ import { FC } from 'react'
 const App: FC = () => {
   return (
     <>
-      <h1 className="big-text">Aicha Lhaycha</h1>
-      <div className="gif-container">
-        <img src="https://tenor.com/bRGfJ.gif" alt="Aicha's GIF" />
+      <h1 className="big-text">Aicha Lhaycha</h1>      <div className="gif-container">
+        <img src="./assets/morning-sickness-vomitting.gif" alt="Morning sickness GIF" />
       </div>
     </>
   )
